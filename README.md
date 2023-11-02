@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debdishaa
-- 👀 I’m interested in art, poetries, old songs and data
+- 👀 I’m interested in art, poetries, old songs and data science
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me - Linkedin - /in/debdisha
 
